@@ -1,31 +1,31 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Programmer",
+    "name": "Amazirh Rime",
+    "label": "Developer",
     "image": "",
-    "email": "john@gmail.com",
-    "phone": "(912) 555-4321",
-    "url": "https://johndoe.com",
-    "summary": "A summary of John Doe…",
+    "email": "ra@gmail.com",
+    "phone": "+212 620 20 20 20",
+    "url": "https://rimeamazirh.com",
+    "summary": "CV de Rime...",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Maarif",
+      "postalCode": "25050",
+      "city": "Casablanca",
+      "countryCode": "MA",
+      "region": "Casablanca-Settat"
     },
     "profiles": [{
       "network": "Twitter",
-      "username": "john",
-      "url": "https://twitter.com/john"
+      "username": "rime",
+      "url": "https://twitter.com/rime"
     }]
   },
   "work": [{
     "name": "Company",
-    "position": "President",
+    "position": "CEO",
     "url": "https://company.com",
-    "startDate": "2013-01-01",
-    "endDate": "2014-01-01",
+    "startDate": "2021-01-01",
+    "endDate": "2022-01-01",
     "summary": "Description…",
     "highlights": [
       "Started the company"
@@ -35,8 +35,8 @@
     "organization": "Organization",
     "position": "Volunteer",
     "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
+    "startDate": "2017-01-01",
+    "endDate": "2018-01-01",
     "summary": "Description…",
     "highlights": [
       "Awarded 'Volunteer of the Month'"
@@ -46,9 +46,9 @@
     "institution": "University",
     "url": "https://institution.com/",
     "area": "Software Development",
-    "studyType": "Bachelor",
-    "startDate": "2011-01-01",
-    "endDate": "2013-01-01",
+    "studyType": "Master",
+    "startDate": "2020-01-01",
+    "endDate": "2023-01-01",
     "score": "4.0",
     "courses": [
       "DB1101 - Basic SQL"
@@ -94,7 +94,7 @@
     ]
   }],
   "references": [{
-    "name": "Jane Doe",
+    "name": "Amazirh Younes",
     "reference": "Reference…"
   }],
   "projects": [{
